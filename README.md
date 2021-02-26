@@ -12,6 +12,15 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes I made in part1.css
+====================
+- background color
+- figure size and position
+- add Caption to figures with sizes and boarder
+- text centered; header centered;
+- text color; text font in paragraphs
+
+
 License/Copyright
 =================
 
