@@ -1,5 +1,5 @@
 .image { 
-    width: 10%; 
+    width: 20%; 
 }
 
 p {
@@ -13,4 +13,10 @@ p {
 
 body {
     background-color: #dbc9c9;
+}
+.sidebar {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left: 50px;
 }
